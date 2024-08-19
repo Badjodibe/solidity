@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cde477c5-680a-41d7-b5e8-0fe3c15e4939" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/controller/ConferenceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/controller/ProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/models/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/models/Conference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/models/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/models/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/repository/ArticleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/repository/ConferenceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/repository/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/domain/repository/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/services/ArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/services/ConferenceServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/services/MessageServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjo/src/main/java/com/badjo/badjo/services/ProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../badjodibe.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badjodibe.github.io/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../badjodibe.github.io/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badjodibe.github.io/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../badjodibe.github.io/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badjodibe.github.io/src/Components/Components.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../badjodibe.github.io/src/Components/Components.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badjodibe.github.io/src/Pages/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../badjodibe.github.io/src/Pages/Services.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jQcrq37jAD77zA2bTN7PDqMQIM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cde477c5-680a-41d7-b5e8-0fe3c15e4939" name="Changes" comment="" />
+      <created>1721322955019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721322955019</updated>
+    </task>
+    <servers />
+  </component>
+</project>
